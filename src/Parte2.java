@@ -5,7 +5,7 @@ public class Parte2 {
 
 
 
-    public void clonadorByte(String cadea, String cadea2) {
+    public void clonadorBuffered(String cadea, String cadea2) {
         File origen = new File(cadea);
         File destino = new File(cadea2);
 
